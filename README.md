@@ -1,6 +1,6 @@
 # AI-Calculator
 
-This converts the text into numeric values and do arithatic operations.
+This converts the text into numeric values and do arithmatic operations.
 
 
 For Example:
