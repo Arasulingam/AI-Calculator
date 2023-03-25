@@ -2,6 +2,7 @@
 
 This converts the text into numeric values and do arithmatic operations.
 
+Input Limit: 0 To 100
 
 For Example:
 
