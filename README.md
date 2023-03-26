@@ -1,6 +1,6 @@
 # AI-Calculator
 
-This converts the text into numeric values and do arithmatic operations.
+This converts the text into numeric values and do arithmetic operations.
 
 Input Limit: 0 To 100
 
